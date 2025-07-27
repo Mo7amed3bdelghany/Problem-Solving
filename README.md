@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0058-length-of-last-word](https://github.com/Mo7amed3bdelghany/Problem-Solving/tree/master/0058-length-of-last-word) |
 | [0344-reverse-string](https://github.com/Mo7amed3bdelghany/Problem-Solving/tree/master/0344-reverse-string) |
 ## Hash Table
 |  |
