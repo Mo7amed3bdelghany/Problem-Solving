@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/Mo7amed3bdelghany/Problem-Solving/tree/master/0001-two-sum) |
 | [0066-plus-one](https://github.com/Mo7amed3bdelghany/Problem-Solving/tree/master/0066-plus-one) |
 | [0118-pascals-triangle](https://github.com/Mo7amed3bdelghany/Problem-Solving/tree/master/0118-pascals-triangle) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/Mo7amed3bdelghany/Problem-Solving/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0217-contains-duplicate](https://github.com/Mo7amed3bdelghany/Problem-Solving/tree/master/0217-contains-duplicate) |
 | [0283-move-zeroes](https://github.com/Mo7amed3bdelghany/Problem-Solving/tree/master/0283-move-zeroes) |
 | [2316-count-hills-and-valleys-in-an-array](https://github.com/Mo7amed3bdelghany/Problem-Solving/tree/master/2316-count-hills-and-valleys-in-an-array) |
@@ -45,4 +46,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0118-pascals-triangle](https://github.com/Mo7amed3bdelghany/Problem-Solving/tree/master/0118-pascals-triangle) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/Mo7amed3bdelghany/Problem-Solving/tree/master/0121-best-time-to-buy-and-sell-stock) |
 <!---LeetCode Topics End-->
