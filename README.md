@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0013-roman-to-integer](https://github.com/Mo7amed3bdelghany/Problem-Solving/tree/master/0013-roman-to-integer) |
 | [0066-plus-one](https://github.com/Mo7amed3bdelghany/Problem-Solving/tree/master/0066-plus-one) |
+| [0441-arranging-coins](https://github.com/Mo7amed3bdelghany/Problem-Solving/tree/master/0441-arranging-coins) |
 ## Two Pointers
 |  |
 | ------- |
@@ -51,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0441-arranging-coins](https://github.com/Mo7amed3bdelghany/Problem-Solving/tree/master/0441-arranging-coins) |
 | [3790-fruits-into-baskets-ii](https://github.com/Mo7amed3bdelghany/Problem-Solving/tree/master/3790-fruits-into-baskets-ii) |
 ## Segment Tree
 |  |
