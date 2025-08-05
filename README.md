@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/Mo7amed3bdelghany/Problem-Solving/tree/master/0217-contains-duplicate) |
 | [0283-move-zeroes](https://github.com/Mo7amed3bdelghany/Problem-Solving/tree/master/0283-move-zeroes) |
 | [2316-count-hills-and-valleys-in-an-array](https://github.com/Mo7amed3bdelghany/Problem-Solving/tree/master/2316-count-hills-and-valleys-in-an-array) |
+| [3790-fruits-into-baskets-ii](https://github.com/Mo7amed3bdelghany/Problem-Solving/tree/master/3790-fruits-into-baskets-ii) |
 ## Math
 |  |
 | ------- |
@@ -47,4 +48,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0118-pascals-triangle](https://github.com/Mo7amed3bdelghany/Problem-Solving/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Mo7amed3bdelghany/Problem-Solving/tree/master/0121-best-time-to-buy-and-sell-stock) |
+## Binary Search
+|  |
+| ------- |
+| [3790-fruits-into-baskets-ii](https://github.com/Mo7amed3bdelghany/Problem-Solving/tree/master/3790-fruits-into-baskets-ii) |
+## Segment Tree
+|  |
+| ------- |
+| [3790-fruits-into-baskets-ii](https://github.com/Mo7amed3bdelghany/Problem-Solving/tree/master/3790-fruits-into-baskets-ii) |
+## Simulation
+|  |
+| ------- |
+| [3790-fruits-into-baskets-ii](https://github.com/Mo7amed3bdelghany/Problem-Solving/tree/master/3790-fruits-into-baskets-ii) |
+## Ordered Set
+|  |
+| ------- |
+| [3790-fruits-into-baskets-ii](https://github.com/Mo7amed3bdelghany/Problem-Solving/tree/master/3790-fruits-into-baskets-ii) |
 <!---LeetCode Topics End-->
