@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0013-roman-to-integer](https://github.com/Mo7amed3bdelghany/Problem-Solving/tree/master/0013-roman-to-integer) |
 | [0066-plus-one](https://github.com/Mo7amed3bdelghany/Problem-Solving/tree/master/0066-plus-one) |
+| [0342-power-of-four](https://github.com/Mo7amed3bdelghany/Problem-Solving/tree/master/0342-power-of-four) |
 | [0441-arranging-coins](https://github.com/Mo7amed3bdelghany/Problem-Solving/tree/master/0441-arranging-coins) |
 ## Two Pointers
 |  |
@@ -66,4 +67,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3790-fruits-into-baskets-ii](https://github.com/Mo7amed3bdelghany/Problem-Solving/tree/master/3790-fruits-into-baskets-ii) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0342-power-of-four](https://github.com/Mo7amed3bdelghany/Problem-Solving/tree/master/0342-power-of-four) |
+## Recursion
+|  |
+| ------- |
+| [0342-power-of-four](https://github.com/Mo7amed3bdelghany/Problem-Solving/tree/master/0342-power-of-four) |
 <!---LeetCode Topics End-->
