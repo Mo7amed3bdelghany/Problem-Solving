@@ -75,4 +75,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0342-power-of-four](https://github.com/Mo7amed3bdelghany/Problem-Solving/tree/master/0342-power-of-four) |
+## Database
+|  |
+| ------- |
+| [0196-delete-duplicate-emails](https://github.com/Mo7amed3bdelghany/Problem-Solving/tree/master/0196-delete-duplicate-emails) |
 <!---LeetCode Topics End-->
