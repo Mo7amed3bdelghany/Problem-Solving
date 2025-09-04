@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0342-power-of-four](https://github.com/Mo7amed3bdelghany/Problem-Solving/tree/master/0342-power-of-four) |
 | [0441-arranging-coins](https://github.com/Mo7amed3bdelghany/Problem-Solving/tree/master/0441-arranging-coins) |
 | [3279-alice-and-bob-playing-flower-game](https://github.com/Mo7amed3bdelghany/Problem-Solving/tree/master/3279-alice-and-bob-playing-flower-game) |
+| [3830-find-closest-person](https://github.com/Mo7amed3bdelghany/Problem-Solving/tree/master/3830-find-closest-person) |
 ## Two Pointers
 |  |
 | ------- |
