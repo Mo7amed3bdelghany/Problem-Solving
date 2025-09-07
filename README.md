@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Mo7amed3bdelghany/Problem-Solving/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0217-contains-duplicate](https://github.com/Mo7amed3bdelghany/Problem-Solving/tree/master/0217-contains-duplicate) |
 | [0283-move-zeroes](https://github.com/Mo7amed3bdelghany/Problem-Solving/tree/master/0283-move-zeroes) |
+| [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/Mo7amed3bdelghany/Problem-Solving/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
 | [2316-count-hills-and-valleys-in-an-array](https://github.com/Mo7amed3bdelghany/Problem-Solving/tree/master/2316-count-hills-and-valleys-in-an-array) |
 | [3790-fruits-into-baskets-ii](https://github.com/Mo7amed3bdelghany/Problem-Solving/tree/master/3790-fruits-into-baskets-ii) |
 ## Math
@@ -21,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/Mo7amed3bdelghany/Problem-Solving/tree/master/0066-plus-one) |
 | [0342-power-of-four](https://github.com/Mo7amed3bdelghany/Problem-Solving/tree/master/0342-power-of-four) |
 | [0441-arranging-coins](https://github.com/Mo7amed3bdelghany/Problem-Solving/tree/master/0441-arranging-coins) |
+| [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/Mo7amed3bdelghany/Problem-Solving/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
 | [3279-alice-and-bob-playing-flower-game](https://github.com/Mo7amed3bdelghany/Problem-Solving/tree/master/3279-alice-and-bob-playing-flower-game) |
 | [3830-find-closest-person](https://github.com/Mo7amed3bdelghany/Problem-Solving/tree/master/3830-find-closest-person) |
 ## Two Pointers
